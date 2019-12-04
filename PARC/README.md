@@ -2,7 +2,7 @@
 1) Flash EV3DEV operating system to your EV3.
 2) Establish a network connection between your EV3 and your computer.
 3) Open a shell terminal and SSH into the EV3.
-4) Upload the python script into your EV3 via SSH (pythonOSCServer..py)
+4) Upload the python script into your EV3 via SSH (pythonOSCServer.py)
 5) Upload the Arduino code to the Arduino
 6) Upload the Processing code.
 7) Execute Python script and wait (approx 10-15 seconds) while it starts up a server.
